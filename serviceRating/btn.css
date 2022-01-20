@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400);
+#submit_rate {
+    font-family: 'Raleway', Arial, sans-serif;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: lightcoral;
+    color: rgb(178, 32, 32);
+}
